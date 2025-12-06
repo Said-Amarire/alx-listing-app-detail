@@ -32,5 +32,4 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
       }
     ]
   },
-  // أضف بقية الخصائص بنفس النمط
 ];
